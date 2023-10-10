@@ -16,7 +16,7 @@ To develop a Recurrent Neural Network model for stock price prediction.
 
 
 ## Neural Network Model
-![output]()
+![output](https://github.com/jhansi21005096/rnn-stock-price-prediction/blob/main/input-1.png)
 
 ## DESIGN STEPS
 
@@ -133,10 +133,10 @@ print("Mean Squared Error = ",mse)
 ## OUTPUT
 
 ### True Stock Price, Predicted Stock Price vs time
-![output]()
+![output](https://github.com/jhansi21005096/rnn-stock-price-prediction/blob/main/output-1.png)
 
 ### Mean Square Error
-![output]()
+![output](https://github.com/jhansi21005096/rnn-stock-price-prediction/blob/main/output-2.png)
 
 
 ## RESULT
